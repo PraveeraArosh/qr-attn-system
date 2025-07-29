@@ -3,7 +3,7 @@
 A web-based QR code attendance system built with Node.js, Express, React, and SQLite.
 
 ## Prerequisites
-- Node.js (v14 or higher)
+- Node.js (v24)
 - npm
 
 ## Setup Instructions
